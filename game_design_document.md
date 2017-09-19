@@ -11,3 +11,4 @@
 7. I'm thinking i'll do this with either C++ or Rust. It'd be a fun learning experience.
 8. If I like how it turns out, may try to port it to iOS/Swift and see if i can't make a buck or two. 
 9. I guess I should come up with a story. God willing the player learns SOMETHING about themselves during the experience.
+10.Theres going to be a final 4th route that brings the stories together
